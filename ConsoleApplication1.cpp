@@ -13,7 +13,6 @@ void main()
     printf("\n");
     printf("Сергеевна\n");
     printf("Ксения\n");
-    printf("Маслова\n");
     printf("\n");
     printf("\n");
     printf("Маслова\n");
