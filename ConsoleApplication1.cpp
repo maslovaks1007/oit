@@ -11,9 +11,6 @@ void main()
     printf("Дата: 02.09.2025\n");
     printf("Гpyппа: ИСЭбд-11-2025\n");
     printf("\n");
-    printf("Сергеевна\n");
-    printf("Ксения\n");
-    printf("Маслова\n");
     printf("\n");
     printf("\n");
     printf("Маслова\n");
